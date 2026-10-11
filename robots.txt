@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://irenep64122.github.io/telegram-bot-probiv-2026/sitemap.xml
